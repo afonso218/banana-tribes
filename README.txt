@@ -1,4 +1,3 @@
-# Projecto de PCD 2011/2012 1ºSemestre #
 # Banana Tribes #
 
 ################################### SINGLE PLAYER ###################################
@@ -14,3 +13,5 @@ Na pasta BT Cliente possui:
 ################################ MULTIPLAYER PLAYER ################################
 
 Necessário correr o BT Server para que o SINGLE PLAYER possa aceder ao MULTIPLAYER.
+
+# Projecto de PCD 2011/2012 1ºSemestre #
